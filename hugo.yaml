@@ -1,0 +1,77 @@
+baseURL: https://203c3ed1.github.io
+languageCode: en-us
+title: 203c3ed1
+subtitle: Work, Life, and Random Stuff
+theme: ["PaperMod"]
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["work", "life", "random"]
+
+minify:
+  disableXML: true
+  # minifyOutput: true
+
+pagination:
+  disableAliases: false
+  pagerSize: 5
+
+menu:
+  main:
+    - name: Work
+      url: work/
+      weight: 1
+    - name: Life
+      url: life/
+      weight: 2
+    - name: Random
+      url: random/
+      weight: 3
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  description: "Work, Life, and Random Stuff"
+  author: 203c3ed1
+  # author: ["Me", "You"] # multiple authors
+
+  defaultTheme: auto
+  # disableThemeToggle: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  # comments: false
+
+  homeInfoParams:
+    Title: "Work, Life, and Random Stuff"
+    Content: >
+      👋 **Welcome to my little corner of the internet!**
+
+      - This isn't LinkedIn. This isn't Medium. This is where I tell my stories the way they are meant to be told; without filters, without clickbait, without the pressure of chasing views.
+
+      - Here, I write about work, life, and the random twists in between. I stay anonymous not because I'm hiding, but because I want the freedom to be honest. No polished resumes, no trending hashtags; just real stories. Sometimes thoughtful, sometimes messy, sometimes funny, but always true.
+
+      - If you're looking for hype, you won't find it here. But if you're curious about the unpolished side of everyday life and work, you're in the right place.
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
