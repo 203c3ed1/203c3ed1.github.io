@@ -1,6 +1,5 @@
 ---
 date: '2025-10-03T18:06:51+10:00'
-draft: true
 title: 'How to Be a Great Tech Leader: Lessons Beyond the Job Title'
 description: 'What it really means to be a Tech Leader - lessons on influence, decision-making, and empowering teams beyond the job title.'
 summary: 'What it really means to be a Tech Leader - lessons on influence, decision-making, and empowering teams beyond the job title.'
