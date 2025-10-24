@@ -43,6 +43,9 @@ params:
   author: 203c3ed1
   # author: ["Me", "You"] # multiple authors
 
+  # Google Analytics 4
+  GoogleAnalyticsID: "G-K9DGW21XLM"
+
   defaultTheme: auto
   # disableThemeToggle: true
   ShowShareButtons: true
