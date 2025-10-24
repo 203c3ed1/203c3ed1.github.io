@@ -32,7 +32,7 @@ While software applications are often expected to have deterministic behaviours,
 
 Most of the time, the team will look up to you for guidance in such scenario. The responsibility of a leader in this case is to simplify complexity, make trade-offs, and stand by decisions. I often use Structural Decision Making framework such as PrOACT to objectively benchmark the options, measure trade-offs, and guide the team toward progress rather than finding the “perfect answer”.
 
-Of course, there will be consequences and trade-offs when making decision under uncertainty. But you should stand by your decision, be accountable for it, and prepare mitigation strategy. After all, tech leaders embrace ambiguity and help others feel confident in moving forward.
+Of course, there will be consequences and trade-offs when making decisions under uncertainty. But you should stand by your decisions, be accountable for it, and prepare mitigation strategy. After all, tech leaders embrace ambiguity and help others feel confident in moving forward.
 
 ## Creating Space for Others to Lead
 
@@ -42,8 +42,8 @@ It is similar to teaching someone how to drive. You need to be there with them i
 
 ## The Ongoing Journey
 
-Leadership is a practice, not a destination.
+I used to think that Tech Leader is a role, a milestone, a definitive point and a destination. However, the experience I had during the last few years has taught me that it's a journey and we all have to practice along the way regardless of our titles or our roles.
 
-Reflection: how you’ve grown as a Tech Leader, and what you continue to learn.
+I started by helping others, being responsible and taking full ownership of everything I do. Overtime, I gain more experience, knowledge, and I am able to guide other members, becoming a trusted advisor in the team. I belive the best way to learn is to do, and the best way to lead is to do it with your team.
 
-Closing hook: “Being a Tech Leader isn’t about being in front. It’s about creating a path so others can walk confidently beside you.”
+Finally, being a Tech Leader isn’t about being in front. It’s about creating a path so others can walk confidently beside you.”
