@@ -28,16 +28,15 @@ Team performance is the average of individual performance. Therefore, I believe 
 
 ## Decision-Making Under Uncertainty
 
+While software applications are often expected to have deterministic behaviours, the decisions made during the design and delivery process of these applications often involve dealing with uncertainty. For example, you know that running the data pipeline 1000 times should give exactly the same result for the same input, but it is still unsure whether going with data processing engine A or B would guarrantee success if you're the first one adopting the solution in the organisation.
 
+Most of the time, the team will look up to you for guidance in such scenario. The responsibility of a leader in this case is to simplify complexity, make trade-offs, and stand by decisions. I often use Structural Decision Making framework such as PrOACT to objectively benchmark the options, measure trade-offs, and guide the team toward progress rather than finding the “perfect answer”.
 
-
-Leaders simplify complexity, make trade-offs, and stand by decisions.
-
-It’s less about having the “perfect answer” and more about guiding the team toward progress.
-
-Tech leaders embrace ambiguity and help others feel confident in moving forward.
+Of course, there will be consequences and trade-offs when making decision under uncertainty. But you should stand by your decision, be accountable for it, and prepare mitigation strategy. After all, tech leaders embrace ambiguity and help others feel confident in moving forward.
 
 ## Creating Space for Others to Lead
+
+
 
 Empowering others is a hallmark of real leadership.
 
