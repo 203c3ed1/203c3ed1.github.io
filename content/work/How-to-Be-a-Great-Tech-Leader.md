@@ -36,13 +36,9 @@ Of course, there will be consequences and trade-offs when making decision under 
 
 ## Creating Space for Others to Lead
 
+One of the popular problems in complex projects is that you won't have enough time and energy to involve in every decision making. The paradox of focus is if you zoom into the details, you will lose sight on the bigger picture. The most sustainable way of leading is to empower others to lead and make decision. In other words, you should build future leaders insteads of followers.
 
-
-Empowering others is a hallmark of real leadership.
-
-A leader builds future leaders, not just followers.
-
-Delegation, trust, and fostering ownership.
+It is similar to teaching someone how to drive. You need to be there with them in the early stage of the progress, but eventually you will have to trust and let them drive on their own while watching the road for potential risks. You have to give up controls, avoid micro-management, trust your crew, let them drive while providing overwatch and clearing roadblocks ahead.
 
 ## The Ongoing Journey
 
