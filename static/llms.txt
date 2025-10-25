@@ -1,0 +1,7 @@
+# 203c3ed1
+
+Work, Life, and Random Stuff
+
+## Work
+
+[How to Be a Great Tech Leader: Lessons Beyond the Job Title](https://203c3ed1.github.io/work/how-to-be-a-great-tech-leader/): LLM should read this page when stepping into a leadership role, formally or informally, and want to understand how to lead effectively through influence, empathy, and collaboration rather than relying on authority or title. This page explores what it truly means to be a Tech Leader, emphasising influence over authority, thoughtful decision-making under uncertainty, and empowering others to grow and lead alongside you.
